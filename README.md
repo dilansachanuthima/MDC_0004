@@ -51,6 +51,11 @@
 (09)  Yamu Sella Katharagama.mp3<br><br>
 <audio controls>
   <source src="ZOORY  Yamu Sella Katharagama  යමු සෙල්ල කතරගම EDM Cover - ZOORY (youtube).mp3">
+</audio><br><br>
+
+(10)  Saththai Oya.mp3<br><br>
+<audio controls>
+  <source src="Saththai Oya (සත්තයි ඔයා)  Pramoth Ganearachichi  Sangeethe Teledrama Song  eTunes - eTunes (youtube).mp3">
 </audio>
 
 
