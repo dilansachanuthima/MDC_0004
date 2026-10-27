@@ -6,7 +6,7 @@
 <body>
 <center><h1>New Songs</h1></center><br><br>
 
-<center><img src="50.png"></center><br>
+<center><img src="50.png" width="300" height="300"></center><br>
 
 (01) .mp3<br><br>
 <audio controls>
