@@ -41,6 +41,11 @@
 (07) Ithin Ko.mp3<br><br>
 <audio controls>
   <source src="Ithin Ko (ඉතින් කෝ) - Suresh Dilshan Official Music Video - SGM Tunes (youtube).mp3">
+</audio><br><br>
+
+(08)  Pura Poya Handata.mp3<br><br>
+<audio controls>
+  <source src="පුර පෝය හඳට  Pura Poya Handata   Sunil Edirisinghe  EDM Cover  Aurix Music  Remix - Aurix Music (youtube).mp3">
 </audio>
 
 
