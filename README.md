@@ -18,5 +18,12 @@
   <source src="Ukul lathawe  (උකුල් ලතාවෙ)  naughtyproductions - Dana music lk (youtube).mp3">
 </audio>
 
+<br><br>
+
+(01) Nurangana.mp3<br><br>
+<audio controls>
+  <source src="Nurangana (නුරංගනා) - Oshada Akash Official Music Video - Naada Tv (youtube).mp3">
+</audio>
+
 </body>
 </html>
