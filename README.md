@@ -46,7 +46,13 @@
 (08)  Pura Poya Handata.mp3<br><br>
 <audio controls>
   <source src="පුර පෝය හඳට  Pura Poya Handata   Sunil Edirisinghe  EDM Cover  Aurix Music  Remix - Aurix Music (youtube).mp3">
+</audio><br><br>
+
+(09)  Yamu Sella Katharagama.mp3<br><br>
+<audio controls>
+  <source src="ZOORY  Yamu Sella Katharagama  යමු සෙල්ල කතරගම EDM Cover - ZOORY (youtube).mp3">
 </audio>
+
 
 
 
