@@ -21,6 +21,11 @@
 (01) Nurangana.mp3<br><br>
 <audio controls>
   <source src="Nurangana (නුරංගනා) - Oshada Akash Official Music Video - Naada Tv (youtube).mp3">
+</audio><br><br>
+
+(01) Benthara Palame.mp3<br><br>
+<audio controls>
+  <source src="Benthara Palame ( බෙන්තර පාලමේ ) - Dimanka Wellalage ft. Kapilan Kugavel (Official Music Video) - Swara Entertainment (youtube).mp3">
 </audio>
 
 </body>
