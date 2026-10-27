@@ -31,7 +31,13 @@
 (05) Katharina.mp3<br><br>
 <audio controls>
   <source src="Dinuka Jayasinghe - Katharina ( කැතරිනා )  Official Music Video - Dinuka Jayasinghe (youtube).mp3">
+</audio><br><br>
+
+(05) Narama.mp3.mp3<br><br>
+<audio controls>
+  <source src="NARAMA (නෑරම) Official Music Video - Sandun Perera Ft Smokio _ Chamath Sangeeth [3eJc0xBgDoY].mp3">
 </audio>
+
 
 
 </body>
